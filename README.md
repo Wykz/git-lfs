@@ -18,11 +18,17 @@ Version Linux: [Git for Linux](https://git-scm.com/download/linux)
 
 Et enfin il vous faudra installer [Git LFS](https://github.com/git-lfs/git-lfs/releases/tag/v3.2.0).
 
+## Deuxième étape
+
 Une fois ceci fait, cloner ou créer votre repo avec GitHub Desktop
 
 ![image](https://zupimages.net/up/22/41/jgfx.png)
 
-et mettez votre fichier qui fait + de 100Mb dans le dossier du repo. Une fois ceci fait, lancer Git dans le dossier du repo et tapez:
+et mettez votre fichier qui fait + de 100Mb dans le dossier du repo.
+
+## Troisième étape
+
+Une fois ceci fait, lancer Git dans le dossier du repo et tapez:
 
 ``git lfs install``
 
