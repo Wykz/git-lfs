@@ -12,7 +12,9 @@ Si vous êtes passé par GitHub Desktop et qu'il vous est impossible d'upload un
 Il vous faudra d'abord installer Git:
 
 Version Windows: [Git For Windows](https://gitforwindows.org/)
+
 Version MacOS: [Git for MacOS](https://git-scm.com/download/mac)
+
 Version Linux: [Git for Linux](https://git-scm.com/download/linux)
 
 
